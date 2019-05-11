@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Elements
-nav-menu: true
+published: false
+nav-menu: false
 ---
 
 <!-- Main -->

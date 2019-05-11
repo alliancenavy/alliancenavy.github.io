@@ -1,0 +1,1 @@
+document.currentScript.parentNode.replaceChild(document.createTextNode(`${moment([2005, 5, 15]).fromNow(true)}`.slice(0, -1)), document.currentScript)
