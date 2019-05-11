@@ -1,10 +1,10 @@
 # site settings
 title: Alliance Navy
-subtitle: by HTML5 UP
+subtitle: An Internet Space Navy For Good
 email: alliancenavygroup@gmail.com
-description: Blep
-baseurl: ""
-url: https://alliancenavy.github.io
+description: A multi-game clan celebrating 14 years of community gaming and internet spaceships.
+baseurl: 
+url: https://front.alliancenavy.org
 author:
 street_address:
 city:
